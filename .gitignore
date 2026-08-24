@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.enc
+*.txt
+
+.vscode/
+
+# Build files
+build/
+bin/
+
+# Visual Studio / VS Code temporary files
+*.obj
+*.pdb
+*.ilk
